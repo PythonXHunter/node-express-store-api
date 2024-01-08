@@ -1,1 +1,1 @@
-console.log('04 Store API')
+console.log('04 Store API\'')
